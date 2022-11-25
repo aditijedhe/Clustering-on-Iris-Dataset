@@ -9,4 +9,4 @@
 Clustering method to classified species of Iris dataset.
 
 ### Approach :
-Most of the part of the questions in this lab needed data visualization and data modelling, so use seaborn and matplotlib, sklearn library of python to work out the given questions. And also use scipy for identifying outliers.
+Most of the part of the questions in this excerise need data visualization and data modelling, so used seaborn and matplotlib, sklearn library of python to work out the given questions. And also use scipy for identifying outliers.
